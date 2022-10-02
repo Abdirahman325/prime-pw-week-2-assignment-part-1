@@ -104,8 +104,8 @@ if ( pets == allowedPets ){
 let mostPets = 5
 
 if ( pets <= friendsPets){
-    console.log( 'i could grab a new pet');
-    
+    console.log( 'I could get a new pet');
+
 }
 console.log( 'mostPets');
 
