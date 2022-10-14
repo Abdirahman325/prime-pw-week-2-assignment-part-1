@@ -36,17 +36,10 @@ sentence = 'My name is ' + fullName + 'and I think ' + luckyNumber + 'is a winne
 console.log( sentence );
 
 
-// 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
+// 7 - Create a variable named `adventurous` and set it to a boolean value (true or false) 
+
 let adventurous = true
-let supplies = 3
-let hikers = 3
-// Is there enough supplies for everyone 
-if(supplies >= hikers ){
-    console.log( 'prepared for the expedition');
-} //end enough supplies
-else{
-    console.log( 'prepared. check supplies, hickers, and gear' );
-}
+
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
 
 let food ='pizza'
